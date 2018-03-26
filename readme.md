@@ -6,6 +6,6 @@ It's hacky, but useful when working with 3rd party code you don't have control o
 
 ### Usage Example
 
-  whenElementExists( $('.third-party-widget'), function(){
+  `whenElementExists( $('.third-party-widget'), function(){
     $('.third-party-widget').wrap( "<div class='you-are-mine-now'></div>" );
-  });
+  });`
