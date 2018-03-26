@@ -1,4 +1,4 @@
-#When Element Exists
+# When Element Exists
 
 Function that listen until jQuery selector exists, then runs callback function.
 
