@@ -1,9 +1,4 @@
 /**
- * 
- */
-
-
-/**
  * Listen until $selector exists, then runs callback function
  * 
  * @param  {jQuery Selector} selector - This is the selector you are waiting for to exist
